@@ -9,5 +9,6 @@ eng=int(eng)
 maths=int(maths)
 data=int(data)
 dbms=int(dbms)
+
 total = tam + eng + maths + data + dbms
 print("Total Marks:",total)
